@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [只是，就](https://github.com/graycat0918/mPoem/blob/master/poetry/only_you.md)
 
 - [冰山与太阳](https://github.com/graycat0918/mPoem/blob/master/poetry/iceberg_and_sun.md)
 
