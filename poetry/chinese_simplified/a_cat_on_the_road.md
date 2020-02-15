@@ -1,6 +1,6 @@
-# 陌路上的黑猫
+ # 陌路上的黑猫
 
-**—— 杜大明白**
+**作者： 杜大明白**
 
 在公园，在路上，在天桥  
 或许静卧着一只黑猫  
@@ -24,6 +24,8 @@
 
 我们不都是那陌路上的黑猫    
 最苦的日子即使无力也要奔跑  
-最痛的时刻尽管受伤仍在寻找    
+最痛的时刻尽管受伤仍在寻找  
 未预料何分何秒又遭受风雨的呼啸  
 不曾想那年那月才遇到一生的依靠  
+
+<font size="2" color="blue">[繁簡轉換](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/a_cat_on_the_road.md)</font>
