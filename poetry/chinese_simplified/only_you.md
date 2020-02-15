@@ -1,6 +1,6 @@
 # 只是，就
 
-**—— 遥知不是雪**
+**作者： 杜大明白**
 
 流传于世的故事那么多    
 浪漫的，虐心的   
@@ -18,3 +18,6 @@
 就以为见到了最美的景色  
 只是共饮过几口苦酒  
 就接受了平凡的我    
+
+<font size="2" color="blue">[繁簡轉換](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/only_you.md)</font>
+

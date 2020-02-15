@@ -1,6 +1,6 @@
 # 表了个白
 
-**—— 杜大明白**
+**作者： 杜大明白**
 
 没流过血的手指，奏不出悲壮的哀歌    
 那就不再谈欢乐，让泪水将一切淹没    
@@ -40,4 +40,7 @@
 想陪你到天长地久，失去你我一无所有  
 那么你是否会接受，允许我爱你到白头  
 紧盯你柔情的眼眸，诉说我真挚的请求  
-我能否牵你的小手，一起到世界的尽头  
+我能否牵你的小手，一起到世界的尽头 
+
+<font size="2" color="blue">[繁簡轉換](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/biao_le_ge_bai.md)</font>
+

@@ -1,6 +1,6 @@
 # 离开
 
-**—— 杜大明白**  
+**作者： 杜大明白**
 
 关于离开    
 我想了很久  
@@ -35,3 +35,6 @@
 
 轻轻的 我走了   
 就当我没来过       
+
+<font size="2" color="blue">[繁簡轉換](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/leave.md)</font>
+

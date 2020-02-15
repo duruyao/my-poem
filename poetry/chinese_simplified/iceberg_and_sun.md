@@ -1,6 +1,6 @@
 # 冰山与太阳
 
-**—— 杜大明白**
+**作者： 杜大明白**
 
 你是否也如我一般    
 在寂静的夜里悄悄怀念    
@@ -27,3 +27,6 @@
 和被我们聊过的远方   
 当时，你冷得像冰山   
 而我贱的像太阳  
+
+<font size="2" color="blue">[繁簡轉換](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/iceberg_and_sun.md)</font>
+
