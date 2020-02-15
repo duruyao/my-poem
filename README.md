@@ -12,7 +12,7 @@
 
 - [鷓鴣天 慢](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/zhe_gu_tian.md)
 
-- **[無題](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/no_title_1.md)**
+- **[無題](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/no_title.md)**
 
 - [夜宿庭前](https://github.com/graycat0918/my-poem/blob/master/poetry/chinese_traditional/ye_su_ting_qian.md)
 
